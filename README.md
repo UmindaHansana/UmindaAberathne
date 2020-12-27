@@ -49,13 +49,13 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmindaHansana&show_icons=true)](https://github.com/UmindaHansana)
+[![Uminda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmindaHansana&show_icons=true)](https://github.com/UmindaHansana)
 
 <br/>
 
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmindaHansana&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/UmindaHansana)
 
