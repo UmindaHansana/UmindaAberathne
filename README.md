@@ -4,8 +4,8 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/UmindaHansana)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=flat-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/uminda.aberathna.5)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](UmindaHansana:uminda.h.aberathne@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](Uminda:umindahansana@outlook.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](uminda.h.aberathne@gmail.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](umindahansana@outlook.com)
 
 <h3>
 
